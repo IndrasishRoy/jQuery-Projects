@@ -1,4 +1,4 @@
-#PrevNextBtn
+# PrevNextBtn
 
 Details: This project contains the code of previous next button using jQuery with soothing theme . I created these projects while learning jQuery from YouTube. It is very easy to read and understand these codes for beginners.
 
