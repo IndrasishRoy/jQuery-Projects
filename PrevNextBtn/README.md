@@ -6,9 +6,9 @@ Type:
 • Previous Next Button
 
 Language Used:
-• HTML()
-• CSS()
-• jQuery(24.0%)
+• HTML(55.3%)
+• CSS(24.0%)
+• jQuery(27.7%)
 
 I hope these projects will be very helpful for many of you in terms of learning and for better understanding of jQuery.
 
